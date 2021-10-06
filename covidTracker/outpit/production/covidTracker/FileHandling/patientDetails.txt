@@ -1,0 +1,14 @@
+2,Hari,Kathmandu,984***,10 Sep 2021,27 Dec 2021,Null
+3,Shyam,Lalitpur,984**,Null,27 Dec 2021,Null
+1,Ram,Bhaktapur,984**,1 Sep 2021,28 Sep 2021,Null
+4,Geeta,Biratnagar,984**,29 Sep 2021,27 Dec 2021,30 Sep 2021
+6,Rita,Humla,984*,Null,27 Dec 2021,21 Sep 2021
+5,Sita,Janakpur,984**,Null,28 Sep 2021,Null
+7,Mina,Jumla,984**,Null,28 Sep 2021,Null
+8,Tina,Palpa,984**,Null,27 Dec 2021,01 Oct 2021
+9,Rina,Nuwakot,984**,Null,29 Dec 2020,17 Oct 2021
+10,Hina,Birgunj,984**,15 Sep 2021,29 Dec 2020,17 Sep 2021
+11,Alina,Kavre,984***,10 Sep 2021,27 Dec 2021,11 Sep 2021
+12,Bina,Mustang,984**,29 Aug 2021,27 Dec 2021,1 Sep 2021
+0,Eric,Lalitpur,984**,1 Sep 2021,27 Dec 2021,3 Sep 2021
+13,Nischal,Maitighar,984**,15 Sep 2021,06 Oct 2021,17 Sep 2021
